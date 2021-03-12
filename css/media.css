@@ -1,0 +1,796 @@
+@media screen 
+    and (min-width: 1400px) 
+	and (max-width: 1450px) {
+        input[type="button"]{
+			position: relative;
+			top:-3rem;
+		}
+		.Contact{
+			overflow-y: hidden;
+		}
+	}
+@media screen 
+    and (min-width: 2000px)
+    and (max-width: 2500px) {
+		.services {
+			height: auto;
+		}
+		.about{
+			height: 40vh;
+		}
+	}
+@media screen 
+    and (max-width: 2500px) {
+		.b-l {
+			height: 20vh;
+		}
+		.about{
+			height: 30vh;
+		}
+		.contact-form, .contact-addr{
+			height: 60vh;
+			padding: 20px;
+		}
+		.Contact {
+			height: 70vh;
+		}
+	}
+@media screen 
+    and (max-width: 2600px) {
+		.b-l {
+			height: 20vh;
+		}
+		.about{
+			height: 30vh;
+		}
+		.contact-form, .contact-addr{
+			height: 60vh;
+			padding: 20px;
+		}
+		.Contact {
+			height: 70vh;
+		}
+		.services {
+			height: auto;
+		}
+	}
+@media screen 
+    and (max-width: 2700px) {
+		.b-l {
+			height: 20vh;
+		}
+		.about{
+			height: 30vh;
+		}
+		.contact-form, .contact-addr{
+			height: 60vh;
+			padding: 20px;
+		}
+		.Contact {
+			height: 70vh;
+		}
+		.services {
+			height: auto;
+		}
+	}
+@media screen 
+    and (min-width: 2800px) {
+		.b-l {
+			height: 20vh;
+		}
+		.about{
+			height: 30vh;
+		}
+		
+		.contact-form, .contact-addr{
+			height: 60vh;
+			padding: 20px;
+		}
+		.Contact {
+			height: 70vh;
+		}
+		.services {
+			height: auto;
+		}
+		body{
+			width: 1350px;
+			margin: 0 auto;
+		}
+	}	
+@media screen 
+    and (max-width: 1326px){
+        .Contact {
+			padding-bottom: 100px;
+		}
+		.btn {
+			position: relative;
+			top: -55px;
+			margin-bottom: 32px;
+		}
+		.contact-form {
+			padding-bottom: 44px;
+		}
+		.contact-addr {
+			padding-bottom: 44px;
+		}
+		.container {
+			width: 90%;
+		}
+    }
+
+@media screen 
+    and (max-width: 1302px) {
+        .services {
+			padding-bottom: 50px;
+		}
+	}
+@media screen 
+    and (max-width: 1298px) {
+		.header-text{
+			border: none;
+			text-align: center;
+			position: relative;
+			left: -34px;
+		}
+	}
+@media screen 
+    and (max-width: 1266px) {
+		.header-text{
+			
+			border: none;
+			text-align: center;
+			position: relative;
+			left: -54px !important;
+		}
+		.left {
+			width: 30%;
+		}
+		.center {
+			position: relative;
+			top: -24px;
+			width: 35%;
+		}
+		.right {
+			position: relative;
+			top: 67px;
+			width: 33%;
+		}
+        .services {
+			padding-bottom: 90px;
+		}
+
+	}
+
+@media screen 
+    and (max-width: 1190px) {
+		.services {
+			padding-bottom: 120px;
+		}
+		.header-text{
+			
+			border: none;
+			text-align: center;
+			position: relative;
+			left: -94px !important;
+		}
+		.h-text {
+			position: relative;
+			left: -90px;
+			top: 14px;
+			padding-bottom: 23px;
+		}
+	}
+
+@media screen 
+    and (max-width: 1138px) {
+		.right {
+			position: relative;
+			top: 107px;
+			width: 33%;
+		}
+	}
+
+@media screen 
+    and (max-width: 1064px) {
+	    .h-text {
+			position: relative;
+			left: -120px;
+			top: 14px;
+			padding-bottom: 23px;
+		}  
+		.header-text{ 
+			position: relative;
+			left: -160px !important;
+		}  
+		.banner-button1, .banner-button2 {
+			margin-bottom: 60px;
+		}
+	}
+@media screen 
+    and (max-width: 1014px) {
+		.center {
+			position: relative;
+			top: 15px;
+		}
+		.services {
+			padding-bottom: 170px;
+		}
+		.left {
+			padding: 5px;
+		}
+		.text h1{
+			position: relative;
+			left: -80px !important;
+		}
+		.about-peragarph p {
+			position: relative;
+			left: -45px;
+		}
+		.b-l {
+			position: relative;
+			left: 165px;
+		}
+		.banner-text h1 {
+			font-size: 200%;
+	
+		}
+
+	}
+
+
+@media screen 
+    and (max-width: 942px) {
+		.section {
+			width: 100%;
+		}
+	    .services .flex-wrap {
+			flex-direction: column;
+		}
+		.left {
+			margin-top: 95px;
+			width: 40%;
+			padding-top: 34px;
+			padding-bottom: 45px;
+		}
+		.center {
+			position: relative;
+			top: -100px !important;
+			width: 40%;
+			padding-top: 34px;
+			padding-bottom: 45px;
+		}
+		.right {
+			width: 40%;
+			padding-top: 34px;
+			padding-bottom: 45px;
+			position: relative;
+			top: -200px;
+		}
+		.services{
+			padding-bottom: 790px;
+		}
+		.skills {
+			padding-top: 50px;
+			padding-bottom: 50px;
+		}
+		.skills .text {
+            padding-bottom: 50px;
+		}
+	}
+@media screen 
+    and (max-width: 914px) {
+		.addr, .p_no, .emL {
+			width: 70%;
+			position: relative;
+			left: 15%;
+		}
+		.contact-form {
+			padding-right: 20px;
+		}
+	    textarea[name="textarea"]{
+			width: 78%;
+		}
+		body {
+			overflow-x: hidden;
+		}
+		.header-text {
+			position: relative;
+			left: -250px !important;
+		}
+	}
+@media screen 
+    and (max-width: 900px){
+		.bar1, .bar2, .bar3 {
+			display: block;
+		}
+		ul li {
+			
+			display: list-item;
+			list-style: none;
+			text-align: center;
+			font-size: 1.5rem;
+			text-transform: uppercase;
+			letter-spacing: 3px;
+            position: relative;
+			left: 350px;
+		}
+		ul li:hover {
+			color: red;
+		}
+		.logo {
+			position: absolute;
+			top: 15px;
+		}
+		.social-link {
+			position: absolute;
+			top: 15px;
+			right: 155px;
+		}
+		#hemburger {
+			position: absolute;
+			top: 20px;
+			right: 55px;
+		}
+		ul {
+			display: none;
+			margin-top: 70px;
+		}
+		#bar1, #bar2, #bar3 {
+			background-color: var(--dark);
+		}
+		.services {
+			width: 100% !important;
+		}
+		.hover-elm {
+			width: 100%;
+			/* background-color: aqua; */
+			align-items: center;
+			text-align: center;
+		}
+		.hover-elm > img {
+			position: relative;
+			left: -10px;
+		}
+		.main-banner .flex-wrap{
+            flex-direction: column;
+			
+		}
+        .banner-text {
+			width: 100%;
+			text-align: center;
+			/* background-color: brown; */
+		}
+		.header-text {
+			position: relative;
+			left: -223px !important;
+		}
+		.skills .flex-wrap {
+			flex-direction: column;
+			margin: 10px;
+		}
+		.skills1, .skills2 {
+			width: 100%;
+			padding: 10px;
+			margin: 10px;
+		}
+		.Contact .flex-wrap {
+			flex-direction: column-reverse;
+		}
+		.contact-form, .contact-addr  {
+			width: 100%;
+			
+		}
+		.Contact {
+			padding-bottom: 800px !important;
+			overflow-y: hidden;
+		}
+		.contact-form {
+			padding-bottom: 190px;
+			padding-top: 0px;
+			border-top: 1px solid #000;
+		}
+		input[type="text"] {
+			width: 83%;
+			margin: 20px;
+			position:relative;
+			top: -80px;
+		}
+		label[for="Name"], label[for="Email"] {
+			margin-top: 30px;
+			position: relative;
+			top: 40px;
+		}
+		textarea[name="textarea"] {
+			position:relative;
+			top: -60px;
+		}
+		label[for="massage / text"] {
+            position: relative;
+			top: -60px;
+		}
+		input[type="button"]{
+			position:relative;
+			top: -120px;
+		}
+		.nav-list {
+			display: block;
+			width: 100%;
+			background-color: black;
+
+		}
+		ul li{
+			position: relative;
+			top: 5px !important; 
+			left: 1% !important;
+			margin: 10px;
+			padding-bottom: 20px;
+			color: #fff !important;
+		}
+	} 
+
+@media screen 
+    and (max-width: 866px)  {
+		.about-peragarph{
+			position: relative;
+			/* left: -245px !important; */
+			width: 100%;
+		}
+	}
+
+@media screen 
+    and (max-width: 866px)  {
+		.about-peragarph{
+			position: relative;
+			width: 200%;
+		}
+		
+		.left {
+			width: 50%;
+		}
+		.center {
+			width: 50%;
+		}
+		.right{
+			width: 50%;
+		}
+		.header-text {
+			position: relative;
+			left:-300px !important;
+		}
+		.h-text {
+			position: relative;
+			left:-200px !important;
+		}
+		.b-l {
+			width: 160%;
+		}
+		.nav-list {
+			display: block;
+			width: 100%;
+			background-color: black;
+
+		}
+		ul li{
+			position: relative;
+			top: 5px !important; 
+			left: 1% !important;
+			margin: 10px;
+			padding-bottom: 20px;
+			color: #fff !important;
+		}
+	}
+
+@media screen 
+    and (max-width: 700px) {
+		.about-peragarph p{
+			white-space: nowrap;
+			position: relative;
+			top: -70px;
+		}
+		.header-text {
+			position: relative;
+			left: -323px !important;
+		}
+		.b-l {
+			width: 300%;
+		}
+		.left {
+			width: 60%;
+		}
+		.center {
+			width: 60%;
+		}
+		.right{
+			width: 60%;
+		}
+		.h-text {
+			position: relative;
+			left: -223px !important;
+		}
+		.ab--text {
+			position: relative;
+			top: -80px;
+			padding-bottom: 10px !important;
+		}
+		.about-p-text {
+			position: relative;
+			top: -80px;
+			/* padding-bottom: px !important; */
+		}
+		.about-p-text::before {
+			display: none;
+		}
+		.about-p-text::after {
+			display: none;
+		}
+        .nav-list {
+			display: block;
+			width: 100%;
+			background-color: black;
+
+		}
+		ul li{
+			position: relative;
+			top: 5px !important; 
+			left: 1% !important;
+			margin: 10px;
+			padding-bottom: 20px;
+			color: #fff !important;
+		}
+	}
+@media screen 
+    and (max-width: 678px) {
+		.b-l {
+			display: none;
+		}
+		.about {
+			height: 60vh;
+			
+		}
+		.about-peragarph p {
+			margin: 20px 0 30px;
+		}
+		.nav-list {
+			display: block;
+			width: 100%;
+			background-color: black;
+
+		}
+		ul li{
+			position: relative;
+			top: 5px !important; 
+			left: 1% !important;
+			margin: 10px;
+			padding-bottom: 20px;
+			color: #fff !important;
+		}
+	}
+@media screen 
+    and (max-width: 612px) {
+		.skill-P {
+			width: 100%;
+			position: relative;
+			left: -70px;
+		}
+		.skills1 {
+			padding: 0px;
+		}
+		.skills1:hover, .skills2:hover{
+	       background-color: transparent;
+        }
+		.h-text {
+			position: relative;
+			left: -370px !important;
+			
+		}
+		.h-text h1 {
+			border-bottom: transparent !important;
+			color: var(--pink);
+		}
+		.header-text {
+			position: relative;
+			left: -370px !important;
+		}
+		.ab--text {
+			position: relative;
+			left: -170px !important;
+		}
+		.about-peragarph p {
+			position: relative; 
+			left: 3px;
+			top: -130px;
+		}
+		.about-peragarph h1 {
+			position: relative;
+			top: -134px;
+		}
+		.left, .center, .right {
+			width: 70%;
+		}
+		.nav-list {
+			display: block;
+			width: 100%;
+			background-color: black;
+
+		}
+		ul li{
+			position: relative;
+			top: 5px !important; 
+			left: 1% !important;
+			margin: 10px;
+			padding-bottom: 20px;
+			color: #fff !important;
+		}
+	}
+
+
+@media screen 
+    and (min-width: 400px)
+    and (max-width: 600px) {
+        *::before,*::after {
+			box-sizing: border-box !important;
+		}
+		body{
+			overflow-x: hidden;
+			/* scroll-behavior: smooth; */
+		}
+		html {
+			scroll-behavior: smooth;
+		}
+	}
+
+@media screen 
+    and (max-width: 526px) {
+		.left {
+           width: 90%;
+		}
+		.center {
+           width: 90%;
+		}
+		.right {
+			width: 90%;
+		}
+		.ab--text h1 {
+			position: relative;
+			left: 46px;
+		}
+		.about-peragarph p {
+            font-size: 0.80rem;
+		}
+	}
+
+@media screen 
+    and (max-width: 490px) {
+		.about-peragarph p {
+            font-size: 1rem;
+			text-align: justify;
+			font-size: 75%;
+		}
+		.addr, .p_no, .emL {
+			width: 70%;
+			position: relative;
+			left: 15%;
+		}
+		.contact-addr {
+			height: auto;
+		}
+		input[type="text"]{
+			position: relative;
+			top: -145px;
+		}
+		textarea[name="textarea"] {
+			position: relative;
+			top: -145px;
+			left: -10px;
+		}
+		label[for="Name"], label[for="Email"]{
+			position: relative;
+			top: -25px;
+		}
+		label[for="massage / text"] {
+			position: relative;
+			top: -145px;
+		}
+		input[type="button"] {
+			position: relative;
+			top: -205px;
+		}
+		.contact-form {
+			height: 89vh;
+		}
+		.Contact {
+			height: 70vh;
+			overflow: hidden;
+		}
+        .banner-text h1 {
+			font-size: 200%;
+		}
+		.hover-elm {
+			width: 80%;
+		}
+		.header-text {
+			position: relative;
+			left: -415px !important;
+		}
+        .h-text {
+			font-size: 2.1rem;
+		}
+	}
+
+@media screen 
+    and (max-width: 490px) {
+		.header-text {
+			position: relative;
+			left: -442px !important;
+		}
+		.ab--text {
+			position: relative;
+			left: -100px !important;
+		}
+		.about-peragarph p{
+            font-size: 75%;
+		}
+		.addr, .p_no, .emL {
+			width: 75%;
+			position: relative;
+			left: 10%;
+		}
+		textarea[name="textarea"] {
+			position: relative;
+			top: -145px;
+			left: -15px;
+		}
+	}
+@media screen 
+    and (max-width: 426px) {
+		.banner-text{
+           font-size: 70%;
+		}
+		.hover-elm img{
+			width: 90%;
+		}
+	}
+
+@media screen 
+    and (max-width: 368px) {
+		.social-link {
+			top: 5px;
+			left: 185px;
+			padding-bottom: 5px;
+		}
+		nav {
+			padding-bottom: 20px;
+		}
+		ul {
+			margin-top: 83px;
+		}
+		.header-text h1{
+			font-size: 100% !important;
+			margin-left: 144px;
+		}
+		.h-text h1{
+			font-size: 100% !important;
+			margin-left: 144px;
+		}
+		.about-peragarph{
+			font-size: 79%;
+		}
+	}
+@media screen 
+    and (max-width: 346px) {
+        .addr, .p_no, .emL {
+			width: 85%;
+			position: relative;
+			left: 5%;
+		}
+		textarea[name="textarea"] {
+			position: relative;
+			top: -145px;
+			left: -20px;
+			width: 80%;
+		}
+		.left, .center, .right{
+			width: 100%;
+			padding: 5px;
+		}
+	}
